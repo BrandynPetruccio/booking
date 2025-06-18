@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 
 const inter = Inter({ subsets: ['latin'] });
+const siteUrl = "https://book.brandynpetruccio.com";
 
 export const metadata: Metadata = {
   title: 'Brandyn Petruccio - Book Appointment',
